@@ -1,0 +1,23 @@
+C:\Users\Raikhana\source\repos\Example Project\Example Project\bin\Release\Example Project.exe.config
+C:\Users\Raikhana\source\repos\Example Project\Example Project\bin\Release\Example Project.exe
+C:\Users\Raikhana\source\repos\Example Project\Example Project\bin\Release\Example Project.pdb
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example_Project.AddClient.resources
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example_Project.AddOrder.resources
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example_Project.AddProduct.resources
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example_Project.Admin.resources
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example_Project.Change_users.resources
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example_Project.CreateAdmin.resources
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example_Project.DisplayProducts.resources
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example_Project.MainForm.resources
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example_Project.Map.resources
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example_Project.ModifyCient.resources
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example_Project.ModifyProfile.resources
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example_Project.PrintOrder.resources
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example_Project.Properties.Resources.resources
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example_Project.ReportClient.resources
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example_Project.ReportProduct.resources
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example_Project.Users.resources
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example Project.csproj.GenerateResource.cache
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example Project.csproj.CoreCompileInputs.cache
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example Project.exe
+C:\Users\Raikhana\source\repos\Example Project\Example Project\obj\Release\Example Project.pdb

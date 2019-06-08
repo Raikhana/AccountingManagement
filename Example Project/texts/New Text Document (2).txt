@@ -1,0 +1,7 @@
+It is a desktop application.
+Forms in tabs:
+- Main window (Panel Main)
+- Sections panel (Tab pages:  About, Login, Sing Up, Admin, Help, Close)
+- Actions panel (Listview: Client, Product, Orders, Admin)
+- Information panel (Listview: Users)
+

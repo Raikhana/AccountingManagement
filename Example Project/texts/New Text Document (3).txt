@@ -1,0 +1,7 @@
+Funstions in forms: 
+- Add/Modify/Peport-Clients;                     
+- Add/Modify/Peport/Delete-Products;
+- Add/Change/Peport/Display product-Orders;
+- Approve/Create/Change/Delete-Users;
+Functions menu (Login, Sing Up, Admin)
+Auxiliary windows (About, Help, Close)
